@@ -1,1 +1,1 @@
-# web_class
+# web_class.python
